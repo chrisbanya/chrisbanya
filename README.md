@@ -1,5 +1,10 @@
 # 💫 About Me:
-## HI, I'm Christian ✨<br><br>🧠 Aspiring FullStack Frontend Developer<br>🔭 I'm currently learning Nextjs<br>💻 I create themed web apps to stay consistent<br>✌  I love being better than i was yesterday<br>🤝 I'm looking for help with Junior dev roles 
+# ✨Christian here 👋<br><br>
+## Aspiring Full-Stack Dev | Frontend Focus (currently obsessed with Next.js!)
+<br>🧠 Building cool, user-friendly web apps. Currently diving deep into Next.js.
+<br>💻 I love tuning my skills through consistent project-based development of web apps.
+<br>🌱 Better everyday
+<br>🤝 Seeking a Junior Dev role to contribute and learn within a dynamic team. If you're hiring and think I might be a good fit, Let's connect!
 
 
 ## 🌐 Socials:
